@@ -1,5 +1,173 @@
 [
   {
+    "txid": "444de8eeb8b0ccf6ee3c51221a4e1a73e91e99ff510f058ca080b6925f75e11d",
+    "blockHeight": 964638,
+    "timestamp": 1788142154,
+    "protocol": "XOLO",
+    "version": "v1",
+    "eventType": "reg",
+    "slug": "luna",
+    "tokenId": "444de8eeb8b0ccf6ee3c51221a4e1a73e91e99ff510f058ca080b6925f75e11d",
+    "cid": "QmSBZLWyCF5ZWknPv5cdAkyeVmxCkc8ZosLQVPU1QybSdq",
+    "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e4654364c756e612052616dc3ad72657a202f20526f6d696e6120e280942054686520586f6c6f732052616d6972657a2053686f77203230323635697066733a2f2f516d53425a4c57794346355a576b6e5076356364416b7965566d78436b63385a6f734c515650553151796253647120a49d60beb4ad865a2c3d4547ca1151388d099fc3ca14065a166ddaeb5b3fb84601004c00080000000000000001",
+    "decodedText": "SLP NFT1 | XOLOSNFT | Luna Ramírez / Romina — The Xolos Ramirez Show 2026",
+    "ipfs": {
+      "ok": false,
+      "url": "https://ipfs.io/ipfs/QmSBZLWyCF5ZWknPv5cdAkyeVmxCkc8ZosLQVPU1QybSdq",
+      "cid": "QmSBZLWyCF5ZWknPv5cdAkyeVmxCkc8ZosLQVPU1QybSdq",
+      "status": 429,
+      "error": "HTTP 429"
+    },
+    "hasParents": false,
+    "parentTokenId": null,
+    "motherTokenId": null,
+    "name": null
+  },
+  {
+    "txid": "f6c5778bd35a8bcd82662f3c95c6578ccd32d36cb4ab300e8d02e9b8d808b803",
+    "blockHeight": 964352,
+    "timestamp": 1787967818,
+    "protocol": "XOLO",
+    "version": "v1",
+    "eventType": "reg",
+    "slug": "onix",
+    "tokenId": "f6c5778bd35a8bcd82662f3c95c6578ccd32d36cb4ab300e8d02e9b8d808b803",
+    "cid": "QmY73NvBfZipQbWGccEvqNg1oa2hWa5CiLxXhjt5vUPDBB",
+    "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e46542d4f6e69782052616dc3ad72657a20e280942054686520586f6c6f732052616d6972657a2053686f77203230323635697066733a2f2f516d5937334e7642665a69705162574763634576714e67316f61326857613543694c7858686a74357655504442422048e25f855cd755f384042d946b75958e807b2a78bd39084cc6950b192945773a01004c00080000000000000001",
+    "decodedText": "SLP NFT1 | XOLOSNFT | Onix Ramírez — The Xolos Ramirez Show 2026",
+    "ipfs": {
+      "ok": false,
+      "url": "https://ipfs.io/ipfs/QmY73NvBfZipQbWGccEvqNg1oa2hWa5CiLxXhjt5vUPDBB",
+      "cid": "QmY73NvBfZipQbWGccEvqNg1oa2hWa5CiLxXhjt5vUPDBB",
+      "status": 429,
+      "error": "HTTP 429"
+    },
+    "hasParents": false,
+    "parentTokenId": null,
+    "motherTokenId": null,
+    "name": null
+  },
+  {
+    "txid": "2108c211d55ea3c35e5b4e19c0ada499995ab5e8a629ed3134442de3e16051cb",
+    "blockHeight": 963299,
+    "timestamp": 1787320858,
+    "protocol": "XOLO",
+    "version": "v1",
+    "eventType": "reg",
+    "slug": "vacunacin",
+    "tokenId": "2108c211d55ea3c35e5b4e19c0ada499995ab5e8a629ed3134442de3e16051cb",
+    "cid": "QmWdgrnt69w8Gthfu73JESJmcm42YUhS6GCeUw4Reremsf",
+    "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e465433566163756e616369c3b36e20586f6c6f69747a6375696e746c6520e280942032302064652061676f73746f206465203230323635697066733a2f2f516d576467726e7436397738477468667537334a45534a6d636d34325955685336474365557734526572656d7366200e391859205a8c681a99af34dddf7c39764d741a9cffe935daffc5a6257c0d6401004c00080000000000000001",
+    "decodedText": "SLP NFT1 | XOLOSNFT | Vacunación Xoloitzcuintle — 20 de agosto de 2026",
+    "ipfs": {
+      "ok": false,
+      "url": "https://ipfs.io/ipfs/QmWdgrnt69w8Gthfu73JESJmcm42YUhS6GCeUw4Reremsf",
+      "cid": "QmWdgrnt69w8Gthfu73JESJmcm42YUhS6GCeUw4Reremsf",
+      "status": 429,
+      "error": "HTTP 429"
+    },
+    "hasParents": false,
+    "parentTokenId": null,
+    "motherTokenId": null,
+    "name": null
+  },
+  {
+    "txid": "46a96ccf2e5ca44bc9fc02e0b3b01fe405016715707c488bcfbb82b80a1680fa",
+    "blockHeight": 962483,
+    "timestamp": 1786805368,
+    "protocol": "XOLO",
+    "version": "v1",
+    "eventType": "reg",
+    "slug": "nox",
+    "tokenId": "46a96ccf2e5ca44bc9fc02e0b3b01fe405016715707c488bcfbb82b80a1680fa",
+    "cid": "QmbEMrQA8sgUzwBPoodYeuqV8bSYwsWr9zDiAqM1hLg7fP",
+    "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e46542e4e6f782052616dc3ad72657a20e28094204c696e616a6520586f6c6f69747a6375696e746c652046434d2f46434935697066733a2f2f516d62454d725141387367557a7742506f6f6459657571563862535977735772397a446941714d31684c6737665020e1c982412c895cc92bc1f71b098df93de7785dba29604cf12a6f8da403d4a36301004c00080000000000000001",
+    "decodedText": "SLP NFT1 | XOLOSNFT | Nox Ramírez — Linaje Xoloitzcuintle FCM/FCI",
+    "ipfs": {
+      "ok": false,
+      "url": "https://ipfs.io/ipfs/QmbEMrQA8sgUzwBPoodYeuqV8bSYwsWr9zDiAqM1hLg7fP",
+      "cid": "QmbEMrQA8sgUzwBPoodYeuqV8bSYwsWr9zDiAqM1hLg7fP",
+      "status": 429,
+      "error": "HTTP 429"
+    },
+    "hasParents": false,
+    "parentTokenId": null,
+    "motherTokenId": null,
+    "name": null
+  },
+  {
+    "txid": "c95242fdea3a16ba21d3c876ecf11990c04ae4f1eb0d04d22801c8ff5a885c02",
+    "blockHeight": 962252,
+    "timestamp": 1786665085,
+    "protocol": "XOLO",
+    "version": "v1",
+    "eventType": "reg",
+    "slug": "teyola",
+    "tokenId": "c95242fdea3a16ba21d3c876ecf11990c04ae4f1eb0d04d22801c8ff5a885c02",
+    "cid": "QmZi6sgMCtRti5P5Gpu7zBXLbdWAmDkYgK3Se8UkhkjPJZ",
+    "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e4654485465796f6cc3ad612052616dc3ad72657a20e2809420506564696772c3ad2c20536572766963696f2079205669616a65206120526570c3ba626c69636120446f6d696e6963616e6135697066733a2f2f516d5a693673674d4374527469355035477075377a42584c626457416d446b59674b33536538556b686b6a504a5a205f16dcafa293fcbdd66a35a350d4db4cde3a3dc32acd05329d3eeafd3d11c82101004c00080000000000000001",
+    "decodedText": "SLP NFT1 | XOLOSNFT | Teyolía Ramírez — Pedigrí, Servicio y Viaje a República Dominicana",
+    "ipfs": {
+      "ok": false,
+      "url": "https://ipfs.io/ipfs/QmZi6sgMCtRti5P5Gpu7zBXLbdWAmDkYgK3Se8UkhkjPJZ",
+      "cid": "QmZi6sgMCtRti5P5Gpu7zBXLbdWAmDkYgK3Se8UkhkjPJZ",
+      "status": 429,
+      "error": "HTTP 429"
+    },
+    "hasParents": false,
+    "parentTokenId": null,
+    "motherTokenId": null,
+    "name": null
+  },
+  {
+    "txid": "4639d5c94e350f44e97ef3e288a3a86e9a1936ba26c7fdd94758548d4b9a35a3",
+    "blockHeight": 962213,
+    "timestamp": 1786642039,
+    "protocol": "XOLO",
+    "version": "v1",
+    "eventType": "reg",
+    "slug": "chalchi",
+    "tokenId": "4639d5c94e350f44e97ef3e288a3a86e9a1936ba26c7fdd94758548d4b9a35a3",
+    "cid": "QmWT5PwvGDBFnZN8i2fjmHKR8wiSMJWWT1T3RrDdRrtwuc",
+    "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e4654104368616c6368692052616dc3ad72657a35697066733a2f2f516d575435507776474442466e5a4e386932666a6d484b52387769534d4a5757543154335272446452727477756320cee545920ab2a3666b44e8d5f997a523528774ee134f2d0c793bf64dcd4c71d501004c00080000000000000001",
+    "decodedText": "SLP NFT1 | XOLOSNFT | Chalchi Ramírez",
+    "ipfs": {
+      "ok": false,
+      "url": "https://ipfs.io/ipfs/QmWT5PwvGDBFnZN8i2fjmHKR8wiSMJWWT1T3RrDdRrtwuc",
+      "cid": "QmWT5PwvGDBFnZN8i2fjmHKR8wiSMJWWT1T3RrDdRrtwuc",
+      "status": 429,
+      "error": "HTTP 429"
+    },
+    "hasParents": false,
+    "parentTokenId": null,
+    "motherTokenId": null,
+    "name": null
+  },
+  {
+    "txid": "5ef654e40992b3df24b5902780c73530d8ca8f3171eb81fbc9c44a3813107887",
+    "blockHeight": 962207,
+    "timestamp": 1786639564,
+    "protocol": "XOLO",
+    "version": "v1",
+    "eventType": "reg",
+    "slug": "yolotzin",
+    "tokenId": "5ef654e40992b3df24b5902780c73530d8ca8f3171eb81fbc9c44a3813107887",
+    "cid": "QmcPuqG1VXeyxR2xkJMm8znunWzmgYMWykmzSkt5D2haWR",
+    "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e465411596f6c6f747a696e2052616dc3ad72657a35697066733a2f2f516d63507571473156586579785232786b4a4d6d387a6e756e577a6d67594d57796b6d7a536b743544326861575220b450a08542535d0422bade26d86cf13f47472e3b4f8cd1c590e50755bfec2f2201004c00080000000000000001",
+    "decodedText": "SLP NFT1 | XOLOSNFT | Yolotzin Ramírez",
+    "ipfs": {
+      "ok": false,
+      "url": "https://ipfs.io/ipfs/QmcPuqG1VXeyxR2xkJMm8znunWzmgYMWykmzSkt5D2haWR",
+      "cid": "QmcPuqG1VXeyxR2xkJMm8znunWzmgYMWykmzSkt5D2haWR",
+      "status": 429,
+      "error": "HTTP 429"
+    },
+    "hasParents": false,
+    "parentTokenId": null,
+    "motherTokenId": null,
+    "name": null
+  },
+  {
     "txid": "907515980dfce29c54377b8096bd911e3a565940fa51f09fac5d1a4545f75c34",
     "blockHeight": 961181,
     "timestamp": 1786055173,
@@ -15,8 +183,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmQxann2BVQER8Y7djxcAtafe8z27TcXF1Svau9kfTXg4X",
       "cid": "QmQxann2BVQER8Y7djxcAtafe8z27TcXF1Svau9kfTXg4X",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -39,8 +207,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmcHfqczcX5LGxaGeTuSL9er2RNZoKQAXywbHVc4w3qDDp",
       "cid": "QmcHfqczcX5LGxaGeTuSL9er2RNZoKQAXywbHVc4w3qDDp",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -63,8 +231,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmYPr6ZDxEpxF4NwJmeMwbPGZsgpd2m898JzV3gtechLEV",
       "cid": "QmYPr6ZDxEpxF4NwJmeMwbPGZsgpd2m898JzV3gtechLEV",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -87,8 +255,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmNb5Q4R2oWg6SZPQsr5VjfsLWzwvawYq7JsZg9SBdorvL",
       "cid": "QmNb5Q4R2oWg6SZPQsr5VjfsLWzwvawYq7JsZg9SBdorvL",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -111,8 +279,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmaCHKRfB8ZFwwKb7ygp5HASqTiSVnHGH5DmAhWdKGPLec",
       "cid": "QmaCHKRfB8ZFwwKb7ygp5HASqTiSVnHGH5DmAhWdKGPLec",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -135,8 +303,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmaCE4QeJnfsxDZSjGhur2JMxAAkj4KxZEAZ2kCvdCrugK",
       "cid": "QmaCE4QeJnfsxDZSjGhur2JMxAAkj4KxZEAZ2kCvdCrugK",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -159,8 +327,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmfG8t9WoLungidXjCY6q2S66SipvzuwQsuKnpGf4Wk2bb",
       "cid": "QmfG8t9WoLungidXjCY6q2S66SipvzuwQsuKnpGf4Wk2bb",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -180,45 +348,16 @@
     "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e46543e436572746966696361646f20646520566163756e616369c3b36e20792044657370617261736974616369c3b36e202d20586f6c6f732052616dc3ad72657a35697066733a2f2f516d583231797770666f6944584a67446272704b53516d6b68784a6972475374736f666a577973646d625a435a6120734f94d6ac8576b80154b2e9f326a0c736f40b09b4a066d792e3bd4f498a73e801004c00080000000000000001",
     "decodedText": "SLP NFT1 | XOLOSNFT | Certificado de Vacunación y Desparasitación - Xolos Ramírez",
     "ipfs": {
-      "ok": true,
+      "ok": false,
       "url": "https://ipfs.io/ipfs/QmX21ywpfoiDXJgDbrpKSQmkhxJirGStsofjWysdmbZCZa",
       "cid": "QmX21ywpfoiDXJgDbrpKSQmkhxJirGStsofjWysdmbZCZa",
-      "json": {
-        "app": "Tonalli RMZWallet",
-        "attributes": [
-          {
-            "trait_type": "Variedad",
-            "value": "Sin pelo"
-          },
-          {
-            "trait_type": "Etapa",
-            "value": "joven"
-          }
-        ],
-        "collection": {
-          "family": "Xolos Ramírez",
-          "name": "xolosArmy NFTs"
-        },
-        "description": "Registro oficial y público de la segunda vacunación múltiple (Vanguard Plus 5 L4 CV) y desparasitación interna (Vermiplex Puppy) de los cachorros Xoloitzcuintle: Ónix, Luna, Mixza y Chimalma. Evento transmitido y documentado en vivo el 22 de junio de 2026.",
-        "external_url": "https://xolosramirez.com/blog/2026-06-22-vacunacion-xoloitzcuintle.html",
-        "image": "ipfs://QmRuqfAAmfGHjQq8S9i4rPpdeUfDbFyQkLTdfEXS8gmjj6",
-        "lineage": {
-          "criador": "Xolos Ramirez (Fernando Ramírez Gutiérrez / Alexandra Ramírez Gutiérrez)",
-          "etapa": "joven",
-          "fechaNacimiento": "2026-06-22",
-          "lugarNacimiento": "Ciudad de Mexico",
-          "variedad": "Sin pelo"
-        },
-        "name": "Certificado de Vacunación y Desparasitación - Xolos Ramírez",
-        "parent": "bf8e0b5cd60fe4d6354c662b28542e0f3c3d69941eb039426d65bcdb7fe9f48c",
-        "schema_version": "1.1.0"
-      },
-      "sha256Matches": null
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
     "motherTokenId": null,
-    "name": "Certificado de Vacunación y Desparasitación - Xolos Ramírez"
+    "name": null
   },
   {
     "txid": "2ab5d1890eec894ed87b00f02721ce57dc36f681e96f9125a84a7e3936e25c4e",
@@ -236,8 +375,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmZwdQJcoEEYTDFz1bk7o9YU4UWtPYwskhr3CmQqpBgzLD",
       "cid": "QmZwdQJcoEEYTDFz1bk7o9YU4UWtPYwskhr3CmQqpBgzLD",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -260,8 +399,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmQWhqKwxs6Hh2XLB5hgdoLQMgGePK1pQYhzZuDGXp2UD5",
       "cid": "QmQWhqKwxs6Hh2XLB5hgdoLQMgGePK1pQYhzZuDGXp2UD5",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -281,54 +420,16 @@
     "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e46543050756b612052616dc3ad72657a20e2809420526567697374726f206465204c696e616a652079204d6963726f6368697035697066733a2f2f516d64665252716a74707665484769467369614d4b4a353847316553385464596f437a696943454e7a7a6466687420063efd499474a3941ee22afa5683d3f8cc6f1821eca026e44ed7a64c933406c601004c00080000000000000001",
     "decodedText": "SLP NFT1 | XOLOSNFT | Puka Ramírez — Registro de Linaje y Microchip",
     "ipfs": {
-      "ok": true,
+      "ok": false,
       "url": "https://ipfs.io/ipfs/QmdfRRqjtpveHGiFsiaMKJ58G1eS8TdYoCziiCENzzdfht",
       "cid": "QmdfRRqjtpveHGiFsiaMKJ58G1eS8TdYoCziiCENzzdfht",
-      "json": {
-        "app": "Tonalli RMZWallet",
-        "attributes": [
-          {
-            "trait_type": "Sexo",
-            "value": "Macho"
-          },
-          {
-            "trait_type": "Variedad",
-            "value": "Sin pelo"
-          },
-          {
-            "trait_type": "Etapa",
-            "value": "adulto"
-          }
-        ],
-        "collection": {
-          "family": "Xolos Ramírez",
-          "name": "xolosArmy NFTs"
-        },
-        "description": "Puka Ramírez, xoloitzcuintle macho negro de dos años de edad, queda documentado dentro del linaje Xolos Ramírez mediante su registro de microchip, identidad y ascendencia.\n\nMicrochip: 900255002683037\n\nPadre: Uxmal Ramírez, xoloitzcuintle FCI color mariposa, sin pelo.\nMadre: Jade Ramírez, xoloitzcuintle variedad con pelo, color negro.\n\nEste NFT preserva la memoria viva de Puka Ramírez como parte de la historia, trazabilidad, salud y cultura del xoloitzcuintle dentro de Xolos Ramírez y Tonalli Wallet.",
-        "external_url": "https://xolosramirez.com/blog/2026-06-09-registro-de-linaje-puka-ramirez.html",
-        "image": "ipfs://QmY5jYaCBetbh3qydH6FBsXq2LJyCTaXtiejrtsM5iT1Ji",
-        "lineage": {
-          "color": "Negro",
-          "criador": "Xolos Ramirez (Fernando Ramírez Gutiérrez / Alexandra Ramírez Gutiérrez)",
-          "etapa": "adulto",
-          "fechaNacimiento": "2024-06-09",
-          "lugarNacimiento": "Ciudad de Mexico",
-          "madre": "JADE (RAMIREZ/RAMIREZ) MEX.",
-          "microchip": "900255002683037",
-          "padre": "Uxmal (Avila) Mex. FCI",
-          "sexo": "Macho",
-          "variedad": "Sin pelo"
-        },
-        "name": "Puka Ramírez — Registro de Linaje y Microchip",
-        "parent": "bf8e0b5cd60fe4d6354c662b28542e0f3c3d69941eb039426d65bcdb7fe9f48c",
-        "schema_version": "1.1.0"
-      },
-      "sha256Matches": null
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
     "motherTokenId": null,
-    "name": "Puka Ramírez — Registro de Linaje y Microchip"
+    "name": null
   },
   {
     "txid": "c4f6498bfb0450bf3d2820a9008e4cb206f59b0b5fcd05914f51c23af2da0f05",
@@ -346,8 +447,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmeJNUchDKoSNgFafc11BWmE5myzCin9BtYQ2e1wEahxXg",
       "cid": "QmeJNUchDKoSNgFafc11BWmE5myzCin9BtYQ2e1wEahxXg",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -370,8 +471,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmbezEYyhYZUAfV4i9XCyoYk2EnJm6NMNpzxar3GJdFhdZ",
       "cid": "QmbezEYyhYZUAfV4i9XCyoYk2EnJm6NMNpzxar3GJdFhdZ",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -394,8 +495,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmXq8BHDA5SdTjuFCjuk3Rdw6mdRejoVj33rTR5JjxAxRY",
       "cid": "QmXq8BHDA5SdTjuFCjuk3Rdw6mdRejoVj33rTR5JjxAxRY",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -415,34 +516,16 @@
     "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e465438506572736f6e616c6964616420586f6c6f3a20546f6e61746975682052616dc3ad72657a20284564696369c3b36e205465796f6cc3ad612935697066733a2f2f516d5a50417758336b6b44766f7035757a39316369396d31416a78324b76784e617a636677776d755765646752362076b67ab7bb17f0c1b6b965a5a334f22d2e1d325180f4c9fb17a128a030a6f9ea01004c00080000000000000001",
     "decodedText": "SLP NFT1 | XOLOSNFT | Personalidad Xolo: Tonatiuh Ramírez (Edición Teyolía)",
     "ipfs": {
-      "ok": true,
+      "ok": false,
       "url": "https://ipfs.io/ipfs/QmZPAwX3kkDvop5uz91ci9m1Ajx2KvxNazcfwwmuWedgR6",
       "cid": "QmZPAwX3kkDvop5uz91ci9m1Ajx2KvxNazcfwwmuWedgR6",
-      "json": {
-        "app": "Tonalli RMZWallet",
-        "attributes": [],
-        "collection": {
-          "family": "Xolos Ramírez",
-          "name": "xolosArmy NFTs"
-        },
-        "description": "Episodio histórico de \"Personalidad Xolo\" protagonizado por Tonatiuh Ramírez, un majestuoso xoloitzcuintle miniatura macho de 7 meses. Este token inmortaliza la presentación oficial de \"Teyolía\", nuestro revolucionario programa de adopción comunitaria respaldado por blockchain. Incluye también una sesión en vivo de cuidado dermatológico canino utilizando la línea Xolos Army Naturals. Una pieza de colección esencial para la comunidad de Xolos Ramírez.",
-        "external_url": "https://xolosramirez.com/blog/2026-06-02-personalidad-xolo-con-tonatiuh-ramirez.html",
-        "image": "ipfs://QmSLVZyu1ezZJog3nD38MHad4iyzN5TXU1pxqzpNpZ92PL",
-        "lineage": {
-          "criador": "Xolos Ramirez (Fernando Ramírez Gutiérrez / Alexandra Ramírez Gutiérrez)",
-          "fechaNacimiento": "2026-06-02",
-          "lugarNacimiento": "Ciudad de Mexico"
-        },
-        "name": "Personalidad Xolo: Tonatiuh Ramírez (Edición Teyolía)",
-        "parent": "bf8e0b5cd60fe4d6354c662b28542e0f3c3d69941eb039426d65bcdb7fe9f48c",
-        "schema_version": "1.1.0"
-      },
-      "sha256Matches": null
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
     "motherTokenId": null,
-    "name": "Personalidad Xolo: Tonatiuh Ramírez (Edición Teyolía)"
+    "name": null
   },
   {
     "txid": "d7fa0e23f61589795eb2dd1f286c1278f87cfbede005b9543aed83183c4f230b",
@@ -460,8 +543,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/Qma27z3Zr4jdJiPSi8vfTTdqM6y8jeKfEnscADT4nPVHiP",
       "cid": "Qma27z3Zr4jdJiPSi8vfTTdqM6y8jeKfEnscADT4nPVHiP",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -484,8 +567,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmbCG5Xpk23UMAv9FAAsnJ8Jkbxvpewqgn4Dncwnje6kR2",
       "cid": "QmbCG5Xpk23UMAv9FAAsnJ8Jkbxvpewqgn4Dncwnje6kR2",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -508,8 +591,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmWjs54XnaaG2SRSoRk6Ro4S5nwSZgUvYbcdnxBpRgq3Tp",
       "cid": "QmWjs54XnaaG2SRSoRk6Ro4S5nwSZgUvYbcdnxBpRgq3Tp",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -532,8 +615,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmZ8PDfFGwnMqZ4prU9SZ5shJ5Q5UtJAKFoqCevhFonFG3",
       "cid": "QmZ8PDfFGwnMqZ4prU9SZ5shJ5Q5UtJAKFoqCevhFonFG3",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -556,8 +639,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/Qmak5esCGzE9QW7xFSzQW8HPZJ1KpNqD85tVtGQsFFnpbs",
       "cid": "Qmak5esCGzE9QW7xFSzQW8HPZJ1KpNqD85tVtGQsFFnpbs",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -580,8 +663,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmbrRvFxiAwgVPtHRG42VG1xzyMiyTRALNrZmbAwYEhiAK",
       "cid": "QmbrRvFxiAwgVPtHRG42VG1xzyMiyTRALNrZmbAwYEhiAK",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -604,8 +687,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmSd8veFkA9EdYKUaAL4L4tHWdregyKWWaHPrW4hGUUkG8",
       "cid": "QmSd8veFkA9EdYKUaAL4L4tHWdregyKWWaHPrW4hGUUkG8",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -628,8 +711,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmYbju6Ne1855KBU9r3XuV2FanMUtcSYv3f5LbnvX8Pzvq",
       "cid": "QmYbju6Ne1855KBU9r3XuV2FanMUtcSYv3f5LbnvX8Pzvq",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -652,8 +735,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmQgzwkmWEue7iEB2qFXGywVCYY7dUngah6RitYs2aFb22",
       "cid": "QmQgzwkmWEue7iEB2qFXGywVCYY7dUngah6RitYs2aFb22",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -676,8 +759,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmaNfYghNuVp5jHuaqnuSu5rWS57cuLbhxfXviJ18kfLq3",
       "cid": "QmaNfYghNuVp5jHuaqnuSu5rWS57cuLbhxfXviJ18kfLq3",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -700,8 +783,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmaLkQaqE2jsBQfjvehiFp3qub8vXHX2MM6jC7cdcHNkvQ",
       "cid": "QmaLkQaqE2jsBQfjvehiFp3qub8vXHX2MM6jC7cdcHNkvQ",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -724,8 +807,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmYLmjgpjiHpcmtscySuH5778cQtZQgfSgETh6FobB1rb8",
       "cid": "QmYLmjgpjiHpcmtscySuH5778cQtZQgfSgETh6FobB1rb8",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -748,8 +831,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmSmoFrHoBQHuA5bw5ivVQnJwzArePby69emazMAyydutP",
       "cid": "QmSmoFrHoBQHuA5bw5ivVQnJwzArePby69emazMAyydutP",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -772,8 +855,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmVnUf6bfozexRa8k6uZpgkxMVfisGcWW67P4YNCkNfhYt",
       "cid": "QmVnUf6bfozexRa8k6uZpgkxMVfisGcWW67P4YNCkNfhYt",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -796,8 +879,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmU6J9FwWLWzeLhJRhVvDhGBuNqKNggXFRHevKK8VELMCG",
       "cid": "QmU6J9FwWLWzeLhJRhVvDhGBuNqKNggXFRHevKK8VELMCG",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -820,8 +903,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmWyV9scQsKT68SWFjnu66GzDHnz3BZaQdBXYfZt5RTVQd",
       "cid": "QmWyV9scQsKT68SWFjnu66GzDHnz3BZaQdBXYfZt5RTVQd",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -844,8 +927,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmYLesiz2CXGY1Cdg7M6Pm5oqzP14RvKYQNKBQ3Jkmch5a",
       "cid": "QmYLesiz2CXGY1Cdg7M6Pm5oqzP14RvKYQNKBQ3Jkmch5a",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -868,8 +951,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/Qmau9MYxWmsL9wnDs8z2x1oaR68rNXRS14UWsstKHq3jgF",
       "cid": "Qmau9MYxWmsL9wnDs8z2x1oaR68rNXRS14UWsstKHq3jgF",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -892,8 +975,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmbJWuXdomrEELs59XhHKrZuPufwdLJLV6V6dr75oGWQkK",
       "cid": "QmbJWuXdomrEELs59XhHKrZuPufwdLJLV6V6dr75oGWQkK",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -916,8 +999,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/Qmc6DmfzdtAEnHeZ9ZBY5r4XKz6V4kbhYQ6iHWC7tajipQ",
       "cid": "Qmc6DmfzdtAEnHeZ9ZBY5r4XKz6V4kbhYQ6iHWC7tajipQ",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -940,8 +1023,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmXExoek4rTfAVh7RtT6PSoYScevco4tDR4iSk2Ta9iWJa",
       "cid": "QmXExoek4rTfAVh7RtT6PSoYScevco4tDR4iSk2Ta9iWJa",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -964,8 +1047,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmVX5JrRPsuSfqnDnrRQDr9npHVEjiWj8CXbr3ACAchym6",
       "cid": "QmVX5JrRPsuSfqnDnrRQDr9npHVEjiWj8CXbr3ACAchym6",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -985,55 +1068,16 @@
     "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e46541a52494d4120284c414e47415249434129204d45582e204643492e35697066733a2f2f516d62414258585869794772674d547a4d4b637167556f544b5331786e65596256615a5747696b6d685a50424567207f1f61fab7e0de4493b4ebd488912a7c67ee661496553cecabb68c72023b1e4f01004c00080000000000000001",
     "decodedText": "SLP NFT1 | XOLOSNFT | RIMA (LANGARICA) MEX. FCI.",
     "ipfs": {
-      "ok": true,
+      "ok": false,
       "url": "https://ipfs.io/ipfs/QmbABXXXiyGrgMTzMKcqgUoTKS1xneYbVaZWGikmhZPBEg",
       "cid": "QmbABXXXiyGrgMTzMKcqgUoTKS1xneYbVaZWGikmhZPBEg",
-      "json": {
-        "app": "Tonalli RMZWallet",
-        "attributes": [
-          {
-            "trait_type": "Sexo",
-            "value": "Hembra"
-          },
-          {
-            "trait_type": "Variedad",
-            "value": "Sin pelo"
-          },
-          {
-            "trait_type": "Etapa",
-            "value": "adulto"
-          }
-        ],
-        "collection": {
-          "family": "Xolos Ramírez",
-          "name": "xolosArmy NFTs"
-        },
-        "description": "\"Registro inmutable on-chain de la xoloitzcuintle Miniatura Sin Pelo Bronce, Rima Langarica.",
-        "external_url": "https://www.youtube.com/shorts/EKSwWiXs3IM",
-        "image": "ipfs://QmWHqoTRAq5iPv5Ec5q8mciqU6dw7b7uwz8gR1WMuiRxjh",
-        "lineage": {
-          "color": "Bronce (Rojo)",
-          "criador": "Julio Cesar Langarica Dávila",
-          "etapa": "adulto",
-          "fechaNacimiento": "2022-02-05",
-          "lugarNacimiento": "Colima, Colima",
-          "madre": "AGRIPINA (ESPINOZA) MEX. FCI.",
-          "microchip": "939000026322098",
-          "padre": "PIQUIN (CHECHUE) MEX. FCI.",
-          "registroFCM": "FCMA5977-B",
-          "sexo": "Hembra",
-          "variedad": "Sin pelo"
-        },
-        "name": "RIMA (LANGARICA) MEX. FCI.",
-        "parent": "bf8e0b5cd60fe4d6354c662b28542e0f3c3d69941eb039426d65bcdb7fe9f48c",
-        "schema_version": "1.1.0"
-      },
-      "sha256Matches": null
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
     "motherTokenId": null,
-    "name": "RIMA (LANGARICA) MEX. FCI."
+    "name": null
   },
   {
     "txid": "bde767e246706ddaa4c208aa913285ac7e0e4517b5eaedaf40b0b15a42207e95",
@@ -1051,8 +1095,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmfNkxq6EcR8jydjqo5G5Dxnqq5gmcNg4pQyme3FamGnpG",
       "cid": "QmfNkxq6EcR8jydjqo5G5Dxnqq5gmcNg4pQyme3FamGnpG",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1075,8 +1119,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmQyTN68Nqq47ByoaZiC1AyVPJcYsuoRSZpx36dfbQHnz7",
       "cid": "QmQyTN68Nqq47ByoaZiC1AyVPJcYsuoRSZpx36dfbQHnz7",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1099,8 +1143,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmRVBz14hK8KoMNbRphfM4VCgiAvfk2R1zV42DzNJ2XBax",
       "cid": "QmRVBz14hK8KoMNbRphfM4VCgiAvfk2R1zV42DzNJ2XBax",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1123,8 +1167,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmNasTYAkJoL5iEkXmriJ6HGE7TRFLxbGE2hRrRfgMzgML",
       "cid": "QmNasTYAkJoL5iEkXmriJ6HGE7TRFLxbGE2hRrRfgMzgML",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1147,8 +1191,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmYc5n4RzW1B33NfSPsthmfnSFQqstptPrSgb1tYeCzbjv",
       "cid": "QmYc5n4RzW1B33NfSPsthmfnSFQqstptPrSgb1tYeCzbjv",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1168,53 +1212,16 @@
     "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e46542448554150414e474f202852414d4952455a2f52414d4952455a29204d45582e204643492e35697066733a2f2f516d5272694b5876524e32575838504842316873664b3278623664536d484c4877357a794a58734c37746142725620513bafd0245f9a1d582494c58b27f8b7789b803168b0a8181a44b9acc967923e01004c00080000000000000001",
     "decodedText": "SLP NFT1 | XOLOSNFT | HUAPANGO (RAMIREZ/RAMIREZ) MEX. FCI.",
     "ipfs": {
-      "ok": true,
+      "ok": false,
       "url": "https://ipfs.io/ipfs/QmRriKXvRN2WX8PHB1hsfK2xb6dSmHLHw5zyJXsL7taBrV",
       "cid": "QmRriKXvRN2WX8PHB1hsfK2xb6dSmHLHw5zyJXsL7taBrV",
-      "json": {
-        "app": "Tonalli RMZWallet",
-        "attributes": [
-          {
-            "trait_type": "Sexo",
-            "value": "Macho"
-          },
-          {
-            "trait_type": "Variedad",
-            "value": "Sin pelo"
-          },
-          {
-            "trait_type": "Etapa",
-            "value": "joven"
-          }
-        ],
-        "collection": {
-          "family": "Xolos Ramírez",
-          "name": "xolosArmy NFTs"
-        },
-        "description": "Registro on-chain verificado de Huapango (Ramirez/Ramirez) Mex. FCI. Macho Intermedio Negro.",
-        "external_url": "https://www.youtube.com/watch?v=K27TTCAfzOQ",
-        "image": "ipfs://QmbgpYiW26zE5kgfEWDSY1ekNe7pGDWbDF218QSfHRXNZV",
-        "lineage": {
-          "color": "Negro",
-          "criador": "\"Xolos Ramirez\" (Fernando Ramírez Gutiérrez / Alexandra Ramírez Gutiérrez)",
-          "etapa": "joven",
-          "fechaNacimiento": "2024-05-07",
-          "lugarNacimiento": "Ciudad de Mexico",
-          "microchip": "93900002718801",
-          "registroFCM": "FCMZZ1560-C",
-          "sexo": "Macho",
-          "variedad": "Sin pelo"
-        },
-        "name": "HUAPANGO (RAMIREZ/RAMIREZ) MEX. FCI.",
-        "parent": "bf8e0b5cd60fe4d6354c662b28542e0f3c3d69941eb039426d65bcdb7fe9f48c",
-        "schema_version": "1.1.0"
-      },
-      "sha256Matches": null
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
     "motherTokenId": null,
-    "name": "HUAPANGO (RAMIREZ/RAMIREZ) MEX. FCI."
+    "name": null
   },
   {
     "txid": "4df6ec8a9c51578d79b8b43886cec0930520a0179748f055da52cad0fdd75434",
@@ -1232,8 +1239,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmZrtMeK6HKwBkGP5H6DhuM3Kak6raVrXXVEKht2yEWmYf",
       "cid": "QmZrtMeK6HKwBkGP5H6DhuM3Kak6raVrXXVEKht2yEWmYf",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1256,8 +1263,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmYDTeUB5qm7ibYqg2HHvNhLXzhSqqF4dy7PF7cKwvvpXP",
       "cid": "QmYDTeUB5qm7ibYqg2HHvNhLXzhSqqF4dy7PF7cKwvvpXP",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1280,8 +1287,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmQsigpHL2eoNwGHPF4m9U3NjXPLv37namyKkL6utBwW1M",
       "cid": "QmQsigpHL2eoNwGHPF4m9U3NjXPLv37namyKkL6utBwW1M",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1304,8 +1311,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmeSNxGNw1Kr5VRksoUkKvUec7a1cbe1zNzeCiJmkvqp3k",
       "cid": "QmeSNxGNw1Kr5VRksoUkKvUec7a1cbe1zNzeCiJmkvqp3k",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1328,8 +1335,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmcRB8L58yGvhNqgEirHmijQBbfs4bqC7XXmERg6WZYCTX",
       "cid": "QmcRB8L58yGvhNqgEirHmijQBbfs4bqC7XXmERg6WZYCTX",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1352,8 +1359,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmZwhHAuFyjwuMhcCovfUC6urEgYrjvQFbLxw1tffeUQhZ",
       "cid": "QmZwhHAuFyjwuMhcCovfUC6urEgYrjvQFbLxw1tffeUQhZ",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1376,8 +1383,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmWxyAA5XBfVjCtkTzthomW8Aemwz7qKgiigVCe2xRgCeB",
       "cid": "QmWxyAA5XBfVjCtkTzthomW8Aemwz7qKgiigVCe2xRgCeB",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1400,8 +1407,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmZq1d8xZwmDqdyTwfyh1kbYJ7dYtDFyY6yc4Qhi7TMYCa",
       "cid": "QmZq1d8xZwmDqdyTwfyh1kbYJ7dYtDFyY6yc4Qhi7TMYCa",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1421,55 +1428,16 @@
     "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e46541449545a4941202852414d4952455a29204d45582e35697066733a2f2f516d5934445837503152484c4a37684570575869444873726e7a6b66326f52574d4d6a63656531617262534d6b472079bd050de264ea79b312ffa2919d07e58fe83902790570fd17745869752390ca01004c00080000000000000001",
     "decodedText": "SLP NFT1 | XOLOSNFT | ITZIA (RAMIREZ) MEX.",
     "ipfs": {
-      "ok": true,
+      "ok": false,
       "url": "https://ipfs.io/ipfs/QmY4DX7P1RHLJ7hEpWXiDHsrnzkf2oRWMMjcee1arbSMkG",
       "cid": "QmY4DX7P1RHLJ7hEpWXiDHsrnzkf2oRWMMjcee1arbSMkG",
-      "json": {
-        "app": "Tonalli RMZWallet",
-        "attributes": [
-          {
-            "trait_type": "Sexo",
-            "value": "Hembra"
-          },
-          {
-            "trait_type": "Variedad",
-            "value": "Sin pelo"
-          },
-          {
-            "trait_type": "Etapa",
-            "value": "adulto"
-          }
-        ],
-        "collection": {
-          "family": "Xolos Ramírez",
-          "name": "xolosArmy NFTs"
-        },
-        "description": "Registro on-chain verificado de Itzia (Ramirez) Mex. dentro del Archivo del Linaje Vivo.",
-        "external_url": "https://www.youtube.com/shorts/Ggq6cYTMz2E",
-        "image": "ipfs://QmatYGErSPREYPkuQTSdRtaM4x4m5xZaZKXrPDk1QodPoa",
-        "lineage": {
-          "color": "Negro",
-          "criador": "\"Xolos Ramirez\" (Fernando Ramírez Gutiérrez / Alexandra Ramírez Gutiérrez)",
-          "etapa": "adulto",
-          "fechaNacimiento": "2020-04-20",
-          "lugarNacimiento": "Ciudad de Mexico",
-          "madre": "Calimaya Alvarado",
-          "microchip": "939000002569257",
-          "padre": "Ikal Caliente Mex.FCI.",
-          "registroFCM": "FCMD1611",
-          "sexo": "Hembra",
-          "variedad": "Sin pelo"
-        },
-        "name": "ITZIA (RAMIREZ) MEX.",
-        "parent": "bf8e0b5cd60fe4d6354c662b28542e0f3c3d69941eb039426d65bcdb7fe9f48c",
-        "schema_version": "1.1.0"
-      },
-      "sha256Matches": null
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
     "motherTokenId": null,
-    "name": "ITZIA (RAMIREZ) MEX."
+    "name": null
   },
   {
     "txid": "0d9a9992064b624f986c55d4d418ef186b49b9039e9a67fb9a3a08f0e3e2cfc3",
@@ -1487,8 +1455,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmYFoPkG5mRx1dApHQ8WEsH7bahRFTzexrvEjjPxWnA97J",
       "cid": "QmYFoPkG5mRx1dApHQ8WEsH7bahRFTzexrvEjjPxWnA97J",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1511,8 +1479,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmPbvPXTGvwQwdqJXGH2JV7zn4mYHeA9rTrMhtYynaVJfH",
       "cid": "QmPbvPXTGvwQwdqJXGH2JV7zn4mYHeA9rTrMhtYynaVJfH",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1535,8 +1503,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/Qmd2iz4Z8m9jYnDw3qtBFEeuhQx3H6BQptQqkevqyzpMsZ",
       "cid": "Qmd2iz4Z8m9jYnDw3qtBFEeuhQx3H6BQptQqkevqyzpMsZ",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1559,8 +1527,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmYApcMYC18qwqfKGdMgV8GLWWv4DKvZuY8hKUmMSff3bW",
       "cid": "QmYApcMYC18qwqfKGdMgV8GLWWv4DKvZuY8hKUmMSff3bW",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1580,55 +1548,16 @@
     "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e46541d4d494d4f5341202852414d4952455a2f52414d4952455a29204d45582e35697066733a2f2f516d544a313673637a756339647447574d6f526f4a5a7046586844315138427463507a7a6b386f7a76616f504d7620ca38e2f45a5aa3ac13c9bb27de2a9eb2932cc38f2a3acc380bc026285a2edec601004c00080000000000000001",
     "decodedText": "SLP NFT1 | XOLOSNFT | MIMOSA (RAMIREZ/RAMIREZ) MEX.",
     "ipfs": {
-      "ok": true,
+      "ok": false,
       "url": "https://ipfs.io/ipfs/QmTJ16sczuc9dtGWMoRoJZpFXhD1Q8BtcPzzk8ozvaoPMv",
       "cid": "QmTJ16sczuc9dtGWMoRoJZpFXhD1Q8BtcPzzk8ozvaoPMv",
-      "json": {
-        "app": "Tonalli RMZWallet",
-        "attributes": [
-          {
-            "trait_type": "Sexo",
-            "value": "Hembra"
-          },
-          {
-            "trait_type": "Variedad",
-            "value": "Sin pelo"
-          },
-          {
-            "trait_type": "Etapa",
-            "value": "adulto"
-          }
-        ],
-        "collection": {
-          "family": "Xolos Ramírez",
-          "name": "xolosArmy NFTs"
-        },
-        "description": "Registro on-chain de Mimosa Ramirez dentro del Archivo del Linaje Vivo.",
-        "external_url": "https://www.youtube.com/shorts/LlngjozTF24",
-        "image": "ipfs://QmTYqcXvrhkVg1KdZuXQ35wxboQrEg4bc5Zo1aa6kWzehU",
-        "lineage": {
-          "color": "Negro",
-          "criador": "\"Xolos Ramirez\" (Fernando Ramírez Gutiérrez / Alexandra Ramírez Gutiérrez)",
-          "etapa": "adulto",
-          "fechaNacimiento": "2023-03-07",
-          "lugarNacimiento": "Ciudad de Mexico",
-          "madre": "JADE (RAMIREZ/RAMIREZ) MEX.",
-          "microchip": "939000002703445",
-          "padre": "IKAL CALIENTE MEX.FCI.",
-          "registroFCM": "FCMA6280-C",
-          "sexo": "Hembra",
-          "variedad": "Sin pelo"
-        },
-        "name": "MIMOSA (RAMIREZ/RAMIREZ) MEX.",
-        "parent": "bf8e0b5cd60fe4d6354c662b28542e0f3c3d69941eb039426d65bcdb7fe9f48c",
-        "schema_version": "1.1.0"
-      },
-      "sha256Matches": null
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
     "motherTokenId": null,
-    "name": "MIMOSA (RAMIREZ/RAMIREZ) MEX."
+    "name": null
   },
   {
     "txid": "c6d67d82b53c2d94751ee3aaf487fdcdac2c945319f65b435fc29b198d3e8e95",
@@ -1646,8 +1575,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmQTHG6D31oECBz1Af27HS82n9skZR1bScSwb2cA41kXaa",
       "cid": "QmQTHG6D31oECBz1Af27HS82n9skZR1bScSwb2cA41kXaa",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1670,8 +1599,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmcLTgKoU3BBZDBniF4QDtByx5CxuoVPchvgCLNdnfBstK",
       "cid": "QmcLTgKoU3BBZDBniF4QDtByx5CxuoVPchvgCLNdnfBstK",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1694,8 +1623,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmWunHhwwpkueQJNFrdhWpwmGcgiSqNzLdF8z1EfXQk6Wr",
       "cid": "QmWunHhwwpkueQJNFrdhWpwmGcgiSqNzLdF8z1EfXQk6Wr",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1718,8 +1647,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmYFtNkjmUXWFXfNtj4at3fgAKyfkUXfRqpj8C3bXtgvcX",
       "cid": "QmYFtNkjmUXWFXfNtj4at3fgAKyfkUXfRqpj8C3bXtgvcX",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1742,8 +1671,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmXMQimJ457cNmoBSUQxA26NnVHAYRgDu9c3fvYYaN6YrD",
       "cid": "QmXMQimJ457cNmoBSUQxA26NnVHAYRgDu9c3fvYYaN6YrD",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1766,8 +1695,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmNaUBcNshQKDeSgy4LAt51Kdxj3zwymnuf4Cxt9hZrFDn",
       "cid": "QmNaUBcNshQKDeSgy4LAt51Kdxj3zwymnuf4Cxt9hZrFDn",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1790,8 +1719,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmYaQfMpDWP4SVjyhxHhW8iuYZoFZ181EwpYFQ1uukDHun",
       "cid": "QmYaQfMpDWP4SVjyhxHhW8iuYZoFZ181EwpYFQ1uukDHun",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1814,8 +1743,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmQhpnX46GkMq3RQDwAZfa11WL5BvsExyW1nFjbmvWZYzD",
       "cid": "QmQhpnX46GkMq3RQDwAZfa11WL5BvsExyW1nFjbmvWZYzD",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1838,8 +1767,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmZeusd4hyicdkMpjDvZziargJvY6SRaWip73k51ZbQDLM",
       "cid": "QmZeusd4hyicdkMpjDvZziargJvY6SRaWip73k51ZbQDLM",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1862,8 +1791,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmPjcg7aUorrU5Q5i4atjezmdSPusUES3ShFHv2J93wvXy",
       "cid": "QmPjcg7aUorrU5Q5i4atjezmdSPusUES3ShFHv2J93wvXy",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1886,8 +1815,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmXU1z9PV9F7Mc3JQf2mVDJZX57fxcJ7eUsGEBMTxESW8A",
       "cid": "QmXU1z9PV9F7Mc3JQf2mVDJZX57fxcJ7eUsGEBMTxESW8A",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1907,55 +1836,16 @@
     "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e4654154172756d61202852616dc3ad72657a29204d65782e35697066733a2f2f516d6479705a706e7363394869674d5a754654544e6474436673786b44374e556a69627042796e34724d4e78333420c6ebd00a5e50b5c8d7325670ec5ebb8a47691b524a8e50c84238a4ab88b0fb9601004c00080000000000000001",
     "decodedText": "SLP NFT1 | XOLOSNFT | Aruma (Ramírez) Mex.",
     "ipfs": {
-      "ok": true,
+      "ok": false,
       "url": "https://ipfs.io/ipfs/QmdypZpnsc9HigMZuFTTNdtCfsxkD7NUjibpByn4rMNx34",
       "cid": "QmdypZpnsc9HigMZuFTTNdtCfsxkD7NUjibpByn4rMNx34",
-      "json": {
-        "app": "Tonalli RMZWallet",
-        "attributes": [
-          {
-            "trait_type": "Sexo",
-            "value": "Macho"
-          },
-          {
-            "trait_type": "Variedad",
-            "value": "Sin pelo"
-          },
-          {
-            "trait_type": "Etapa",
-            "value": "adulto"
-          }
-        ],
-        "collection": {
-          "family": "Xolos Ramírez",
-          "name": "xolosArmy NFTs"
-        },
-        "description": "Registro on-chain de Aruma Ramirez dentro del Archivo del Linaje Vivo de Xolos Ramirez.",
-        "external_url": "https://www.youtube.com/shorts/SaCzPNcKDeg",
-        "image": "ipfs://QmQkE1msc4b16NJfFo5vNzbEMyExMKnven77Zv2Xvj7Zpn",
-        "lineage": {
-          "color": "Negro",
-          "criador": "\"Xolos Ramirez\" (Fernando Ramírez Gutiérrez / Alexandra Ramírez Gutiérrez)",
-          "etapa": "adulto",
-          "fechaNacimiento": "2020-04-20",
-          "lugarNacimiento": "Ciudad de Mexico",
-          "madre": "Calimaya Alvarado",
-          "microchip": "939000002569146",
-          "padre": "Ikal Caliente Mex.FCI.",
-          "registroFCM": "FCMD1612",
-          "sexo": "Macho",
-          "variedad": "Sin pelo"
-        },
-        "name": "Aruma (Ramírez) Mex.",
-        "parent": "bf8e0b5cd60fe4d6354c662b28542e0f3c3d69941eb039426d65bcdb7fe9f48c",
-        "schema_version": "1.1.0"
-      },
-      "sha256Matches": null
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
     "motherTokenId": null,
-    "name": "Aruma (Ramírez) Mex."
+    "name": null
   },
   {
     "txid": "0153b3cdc6bb45fb5fc9fa0162914f9a0edb14ea565607993336b46d5d4bc6b3",
@@ -1973,8 +1863,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmTY1ZDCYpf6JRndvb6ivw331eFasB3JnDegptijkDQb1d",
       "cid": "QmTY1ZDCYpf6JRndvb6ivw331eFasB3JnDegptijkDQb1d",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -1997,8 +1887,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmRTskRbFSamFHxVRwCt6mCHPFXjB9dcLgmD2bEsV2PDXM",
       "cid": "QmRTskRbFSamFHxVRwCt6mCHPFXjB9dcLgmD2bEsV2PDXM",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2021,8 +1911,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmUq2ET4VzunrkT4RcnLJupnh34U9ftskWYgWw8Ethrsdx",
       "cid": "QmUq2ET4VzunrkT4RcnLJupnh34U9ftskWYgWw8Ethrsdx",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2045,8 +1935,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmZSaTcXMGmsA9iMMdBoXGS4U1tXohZGMTZH5UKvqvtJhJ",
       "cid": "QmZSaTcXMGmsA9iMMdBoXGS4U1tXohZGMTZH5UKvqvtJhJ",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2069,8 +1959,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmYUHjmbEqxiePeq5oTbAck2kobV9dy7eTdSK8wMi4U52q",
       "cid": "QmYUHjmbEqxiePeq5oTbAck2kobV9dy7eTdSK8wMi4U52q",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2093,8 +1983,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmSa7Yxb7KJLkuasZExMyGf4ED3UQ5Kw6qJUTfRi8KgwQu",
       "cid": "QmSa7Yxb7KJLkuasZExMyGf4ED3UQ5Kw6qJUTfRi8KgwQu",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2117,8 +2007,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmPJPo9WaeEGzb1uERFVryZuS6S7kbvKgjFWKNQrpvqWFP",
       "cid": "QmPJPo9WaeEGzb1uERFVryZuS6S7kbvKgjFWKNQrpvqWFP",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2141,8 +2031,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmWSZtahbeEmE79CkGqqovGiZWwfzk7RT1bnN16c5fkLkK",
       "cid": "QmWSZtahbeEmE79CkGqqovGiZWwfzk7RT1bnN16c5fkLkK",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2165,8 +2055,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmRDSLf5zs79V4F2ijuG9HeGbWWVf2vcAm7uovDYqY628J",
       "cid": "QmRDSLf5zs79V4F2ijuG9HeGbWWVf2vcAm7uovDYqY628J",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2189,8 +2079,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmU4ETPi7d4ihXkeBGcio87WwhaeikEtjqRxL1Q1vqLGaC",
       "cid": "QmU4ETPi7d4ihXkeBGcio87WwhaeikEtjqRxL1Q1vqLGaC",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2213,8 +2103,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmYJLS2hTZvZ4ckcCmowyeisjuEZh2vaiXipqqv4K8Qa9y",
       "cid": "QmYJLS2hTZvZ4ckcCmowyeisjuEZh2vaiXipqqv4K8Qa9y",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2237,8 +2127,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmRGghmZUpFLDQ3YFA4icgLhj7Gy1cFPVZMUH6SS5ib6Gi",
       "cid": "QmRGghmZUpFLDQ3YFA4icgLhj7Gy1cFPVZMUH6SS5ib6Gi",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2261,8 +2151,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmQgARyqSf67ykKB4GPxQ6ac13jgTvQAQW1C5L5pf4oNhM",
       "cid": "QmQgARyqSf67ykKB4GPxQ6ac13jgTvQAQW1C5L5pf4oNhM",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2285,8 +2175,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmeGq5CSDUyQrbWq9y1dAhqbp32LGFLgMPjf5AT7X3Vf3q",
       "cid": "QmeGq5CSDUyQrbWq9y1dAhqbp32LGFLgMPjf5AT7X3Vf3q",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2309,8 +2199,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmQNTGLsFCLgW4FNNUGYmWA1YGuWYzcDLWQ7Yxs38pN9tP",
       "cid": "QmQNTGLsFCLgW4FNNUGYmWA1YGuWYzcDLWQ7Yxs38pN9tP",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2333,8 +2223,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmXjcK857oLhRmcyG8BeVMjpVFkJ8LgfXJXuTNqw8EpwSn",
       "cid": "QmXjcK857oLhRmcyG8BeVMjpVFkJ8LgfXJXuTNqw8EpwSn",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2357,8 +2247,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmS551jH3vLXEqe3UoAn7G1LSZZUbCsuhBWckLAmgyNZX8",
       "cid": "QmS551jH3vLXEqe3UoAn7G1LSZZUbCsuhBWckLAmgyNZX8",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2381,8 +2271,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmXZH3sKEGWjxV2iqxkTxJtTqFCAkDreVcAyHnDfrWPcEX",
       "cid": "QmXZH3sKEGWjxV2iqxkTxJtTqFCAkDreVcAyHnDfrWPcEX",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2405,8 +2295,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmeWkfKx5ybNE6En5ar2UQvX8gBetSoDhwp1RALpwTQVbt",
       "cid": "QmeWkfKx5ybNE6En5ar2UQvX8gBetSoDhwp1RALpwTQVbt",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2429,8 +2319,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmUrUQidq2ND8NaEAL1qMK77zYHTz62nbg2aR19guiEAWd",
       "cid": "QmUrUQidq2ND8NaEAL1qMK77zYHTz62nbg2aR19guiEAWd",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2453,8 +2343,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmVL2HAA16PWS41fpff88Hp52b4NYRpxFCRBif1jzP4zEm",
       "cid": "QmVL2HAA16PWS41fpff88Hp52b4NYRpxFCRBif1jzP4zEm",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2477,8 +2367,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmfQLXCb2EzcXGWcN4hRRa9T5B8ikv71tbFcWCf4qwZvE5",
       "cid": "QmfQLXCb2EzcXGWcN4hRRa9T5B8ikv71tbFcWCf4qwZvE5",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2501,8 +2391,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmVv2pFqGkJtoqN1QpH6KQJYdArfbUHEuSJgRd8RNUwhHw",
       "cid": "QmVv2pFqGkJtoqN1QpH6KQJYdArfbUHEuSJgRd8RNUwhHw",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2525,8 +2415,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmUYDwpWg3F55JuNrHJQDpHs2KDT3seJhdgGp4gizCdgPD",
       "cid": "QmUYDwpWg3F55JuNrHJQDpHs2KDT3seJhdgGp4gizCdgPD",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2549,8 +2439,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmfWUWw1gsyG2cTGBH6JWaAUQn9kB1UbTnBd4kXR4tKob2",
       "cid": "QmfWUWw1gsyG2cTGBH6JWaAUQn9kB1UbTnBd4kXR4tKob2",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2573,8 +2463,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmaaextgyiEFKZB2RSXzDTfquev3RKkb5KD19YUba5cupy",
       "cid": "QmaaextgyiEFKZB2RSXzDTfquev3RKkb5KD19YUba5cupy",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2597,8 +2487,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmZQzCf6pERutYL3eofTPgPKv5JngMZ3P5Aqq8NnF8BvXk",
       "cid": "QmZQzCf6pERutYL3eofTPgPKv5JngMZ3P5Aqq8NnF8BvXk",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2621,8 +2511,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmakRAYJZY7nHpknL8SpqSN4Bpxc25U4SY7sHqVMMkk6Yf",
       "cid": "QmakRAYJZY7nHpknL8SpqSN4Bpxc25U4SY7sHqVMMkk6Yf",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2645,8 +2535,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmcrvA3GUhwMjZG4pCEA5NYHZGf8r6G4P1Qi8Tfo3mUKEJ",
       "cid": "QmcrvA3GUhwMjZG4pCEA5NYHZGf8r6G4P1Qi8Tfo3mUKEJ",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2666,28 +2556,16 @@
     "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e46543b43617073756c61204d756e6469616c6973746120646520586f6c6f732052616d6972657a20636f6e204d6f6e74736572726174204f6c697665722e35697066733a2f2f516d5a7972637735735859324643575165445434583567366178434e446d774a69676e445271716a57414e735a63200ca7e9dff62302fe9e7f1dc861c40a3d73a31a0a794aa9bce65ee4404e698e9401004c00080000000000000001",
     "decodedText": "SLP NFT1 | XOLOSNFT | Capsula Mundialista de Xolos Ramirez con Montserrat Oliver.",
     "ipfs": {
-      "ok": true,
+      "ok": false,
       "url": "https://ipfs.io/ipfs/QmZyrcw5sXY2FCWQeDT4X5g6axCNDmwJignDRqqjWANsZc",
       "cid": "QmZyrcw5sXY2FCWQeDT4X5g6axCNDmwJignDRqqjWANsZc",
-      "json": {
-        "name": "Capsula Mundialista de Xolos Ramirez con Montserrat Oliver.",
-        "description": "Fue el día de grabacíon de la capsula mundialista. En la entrevista participaron Durango Ramirez, Ikal Caliente y Humo Ramirez.",
-        "image": "ipfs://QmQAaBRAsm9tkSi7Epm7JQ9CtDdzJtYtubzELfiHgFZZ2R",
-        "external_url": "https://xolosramirez.com/blog/tacto-ancestral-humo.html",
-        "collection": {
-          "name": "xolosArmy NFTs",
-          "family": "XolosArmy"
-        },
-        "attributes": [],
-        "parent": "bf8e0b5cd60fe4d6354c662b28542e0f3c3d69941eb039426d65bcdb7fe9f48c",
-        "app": "Tonalli RMZWallet"
-      },
-      "sha256Matches": null
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
     "motherTokenId": null,
-    "name": "Capsula Mundialista de Xolos Ramirez con Montserrat Oliver."
+    "name": null
   },
   {
     "txid": "da3b2f4b37981a6d86223409b152eef0321769ab541687c1c58cd1899450a866",
@@ -2705,8 +2583,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/Qmdvtcw8Ayetsc5vkCNAt7WsECnbMWer2kFFRreUNLT2dp",
       "cid": "Qmdvtcw8Ayetsc5vkCNAt7WsECnbMWer2kFFRreUNLT2dp",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2729,8 +2607,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmUZRWuH8pKHjeqvFJJnFxjEjYfG3qmKpWUHg5R3DUXtQZ",
       "cid": "QmUZRWuH8pKHjeqvFJJnFxjEjYfG3qmKpWUHg5R3DUXtQZ",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2753,8 +2631,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmX7PzbNsSBP9GfNpvVEJqWhxDpkFaXGvXDJ2nWy23v22J",
       "cid": "QmX7PzbNsSBP9GfNpvVEJqWhxDpkFaXGvXDJ2nWy23v22J",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2777,8 +2655,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmPFw33bpQVd3iF3E19QfGpmFqDkBFS6umbrYMcgQ7vt9w",
       "cid": "QmPFw33bpQVd3iF3E19QfGpmFqDkBFS6umbrYMcgQ7vt9w",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2798,27 +2676,16 @@
     "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e465419544845204147454e542030303120544f204f4253494449414e35697066733a2f2f516d59324a4b7341586a767235595237516a43797462444e774c4347673170354879556b5a5434756d514d6e585420398aaa7c97d30afbce3585962036cd7d4495f0ac78727441d49860cd25efbde401004c00080000000000000001",
     "decodedText": "SLP NFT1 | XOLOSNFT | THE AGENT 001 TO OBSIDIAN",
     "ipfs": {
-      "ok": true,
+      "ok": false,
       "url": "https://ipfs.io/ipfs/QmY2JKsAXjvr5YR7QjCytbDNwLCGg1p5HyUkZT4umQMnXT",
       "cid": "QmY2JKsAXjvr5YR7QjCytbDNwLCGg1p5HyUkZT4umQMnXT",
-      "json": {
-        "name": "THE AGENT 001 TO OBSIDIAN",
-        "description": "Cyberpunk Noir, Suspenso Tecnológico, Thriller de Acción Vehicular.",
-        "image": "ipfs://QmWsWePh7YBM5kciJzBhJhdEUQ1dJvYjJSCfDjJaufPdkZ",
-        "collection": {
-          "name": "xolosArmy NFTs",
-          "family": "XolosArmy"
-        },
-        "attributes": [],
-        "parent": "bf8e0b5cd60fe4d6354c662b28542e0f3c3d69941eb039426d65bcdb7fe9f48c",
-        "app": "Tonalli RMZWallet"
-      },
-      "sha256Matches": null
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
     "motherTokenId": null,
-    "name": "THE AGENT 001 TO OBSIDIAN"
+    "name": null
   },
   {
     "txid": "fd1b0b1257a433049e8e99ea1e7d6d9a49d8e790d1c66ebc2e62a1066ed486fa",
@@ -2836,8 +2703,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmZxC1Uu6Yoieu4szYRsYhQckNNMoZP3LKczvfSFtpgx7D",
       "cid": "QmZxC1Uu6Yoieu4szYRsYhQckNNMoZP3LKczvfSFtpgx7D",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2857,28 +2724,16 @@
     "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e46541c546f6e616c6c692c20677561726469c3a16e20656e206272617a6f7335697066733a2f2f516d6466764641617158357934727a4732557a466a5a6870416b526648657672504156394a416d5339706248467320fd2f0086aa5fc8ffcff6df76c29a868e7bbf13763dd308e37c69f5123ddeca3901004c00080000000000000001",
     "decodedText": "SLP NFT1 | XOLOSNFT | Tonalli, guardián en brazos",
     "ipfs": {
-      "ok": true,
+      "ok": false,
       "url": "https://ipfs.io/ipfs/QmdfvFAaqX5y4rzG2UzFjZhpAkRfHevrPAV9JAmS9pbHFs",
       "cid": "QmdfvFAaqX5y4rzG2UzFjZhpAkRfHevrPAV9JAmS9pbHFs",
-      "json": {
-        "name": "Tonalli, guardián en brazos",
-        "description": "Esta imagen captura un instante irrepetible:\nel momento previo al nombre,\ncuando Tizoc Ramírez aún no sabía que ya era Tonalli.\n\nNo es solo un cachorro en brazos de su guardián.\nEs energía reconociéndose.\n\nTonalli es el calor vital, la fuerza que anima,\nel vínculo invisible entre humano y xoloitzcuintle.\n\nEste NFT es memoria viva.\nUna constancia digital de un lazo real.",
-        "image": "ipfs://QmTasryy7F9844JG2jgVK8UMtdTvBKCB2nAmUZxYv4hmZc",
-        "external_url": "https://xolosramirez.com/blog/2025-12-19-un-nuevo-guardian-en-la-ciudad-la-historia-de-tizoc-ramirez-y-su-nuevo-hogar-con-fonzi.html",
-        "collection": {
-          "name": "xolosArmy NFTs",
-          "family": "XolosArmy"
-        },
-        "attributes": [],
-        "parent": "bf8e0b5cd60fe4d6354c662b28542e0f3c3d69941eb039426d65bcdb7fe9f48c",
-        "app": "Tonalli RMZWallet"
-      },
-      "sha256Matches": null
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
     "motherTokenId": null,
-    "name": "Tonalli, guardián en brazos"
+    "name": null
   },
   {
     "txid": "52b9ce967c831f14ae9281bace36e0f9554daac2beb10b5483a2afa5a43ef2c3",
@@ -2896,8 +2751,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmVL17PbiY1fxeFKedgTkxoHWbvcBr5iFNG8EjtZskvAFp",
       "cid": "QmVL17PbiY1fxeFKedgTkxoHWbvcBr5iFNG8EjtZskvAFp",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2920,8 +2775,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmQYJUuCsdYKoLiBTQow7PCfqESYro6nzXPjtx3THyLkjX",
       "cid": "QmQYJUuCsdYKoLiBTQow7PCfqESYro6nzXPjtx3THyLkjX",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2944,8 +2799,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/QmcuiwFSwTiLSibsF6TFARowfdBT3WN6HPcoCA7tLfxjgs",
       "cid": "QmcuiwFSwTiLSibsF6TFARowfdBT3WN6HPcoCA7tLfxjgs",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2968,8 +2823,8 @@
       "ok": false,
       "url": "https://ipfs.io/ipfs/Qmbb3fxqaTjjXmCBSwQ1R7yb25eLR6dxMpyTWMaQZQxCSS",
       "cid": "Qmbb3fxqaTjjXmCBSwQ1R7yb25eLR6dxMpyTWMaQZQxCSS",
-      "status": 504,
-      "error": "HTTP 504"
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
@@ -2989,27 +2844,15 @@
     "rawOpReturnHex": "6a04534c500001410747454e4553495308584f4c4f534e46541f786f6c6f7341726d79204e6574776f726b2053746174652047656e6573697335697066733a2f2f516d62614a68534d5645414357317532564d736b527774786b3366316d41336946435674425a3141754b455a35732048a8840e854c6914895e567a8704e00724e86896c1c98233b3df254e732279bc01004c00080000000000000001",
     "decodedText": "SLP NFT1 | XOLOSNFT | xolosArmy Network State Genesis",
     "ipfs": {
-      "ok": true,
+      "ok": false,
       "url": "https://ipfs.io/ipfs/QmbaJhSMVEACW1u2VMskRwtxk3f1mA3iFCVtBZ1AuKEZ5s",
       "cid": "QmbaJhSMVEACW1u2VMskRwtxk3f1mA3iFCVtBZ1AuKEZ5s",
-      "json": {
-        "name": "xolosArmy Network State Genesis",
-        "description": "NFT Genesis dentro del xolosArmy Network State usando la Tonalli Wallet.",
-        "image": "ipfs://QmXNJ256xJNT2B5i8KotrBhdxmiJ1jpsLM4vq8e3GJLEBF",
-        "external_url": "https://tonalli.cash",
-        "collection": {
-          "name": "xolosArmy NFTs",
-          "family": "XolosArmy"
-        },
-        "attributes": [],
-        "parent": "170aa1303e761e132f40c861751905fee1148c213b8352435c89950d721909e9",
-        "app": "Tonalli RMZWallet"
-      },
-      "sha256Matches": null
+      "status": 429,
+      "error": "HTTP 429"
     },
     "hasParents": false,
     "parentTokenId": null,
     "motherTokenId": null,
-    "name": "xolosArmy Network State Genesis"
+    "name": null
   }
 ]

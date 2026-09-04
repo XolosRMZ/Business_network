@@ -1,12 +1,12 @@
 {
-  "linajes_registrados": 112,
-  "linajes_validados_ipfs": 12,
+  "linajes_registrados": 119,
+  "linajes_validados_ipfs": 0,
   "registros_con_padre_y_madre": 0,
-  "txs_xolo_detectadas": 112,
-  "ipfs_disponibles": 12,
-  "ipfs_fallidos": 100,
-  "nfts_con_slug_resuelto": 112,
-  "ult_registro_txid": "907515980dfce29c54377b8096bd911e3a565940fa51f09fac5d1a4545f75c34",
-  "ult_registro_slug": "chimalma",
-  "ultima_actualizacion": "2026-08-11T16:20:11.661Z"
+  "txs_xolo_detectadas": 119,
+  "ipfs_disponibles": 0,
+  "ipfs_fallidos": 119,
+  "nfts_con_slug_resuelto": 119,
+  "ult_registro_txid": "444de8eeb8b0ccf6ee3c51221a4e1a73e91e99ff510f058ca080b6925f75e11d",
+  "ult_registro_slug": "luna",
+  "ultima_actualizacion": "2026-09-04T17:03:24.055Z"
 }
