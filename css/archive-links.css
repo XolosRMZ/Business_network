@@ -1,0 +1,4 @@
+/* A small consistent return path for legacy articles, independent of their theme. */
+nav.archive-return { display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:1rem 2rem; position:relative; margin:3rem auto 0; padding:1.5rem; border-top:1px solid #394637; background:#0c1510; color:#f4f5ed; font-family:system-ui,sans-serif; font-size:1rem; line-height:1.6; box-sizing:border-box; }
+nav.archive-return a { color:#e5c579; text-decoration:underline; text-underline-offset:.25em; padding:.5rem; }
+nav.archive-return a:focus-visible { outline:2px solid #e5c579; outline-offset:4px; }

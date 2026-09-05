@@ -1,303 +1,393 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://xolosarmy.xyz/</loc>
-    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/architecture/</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/</loc>
-    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://xolosarmy.xyz/tonalli.html</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://xolosarmy.xyz/productos-xoloitzcuintle/</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://xolosarmy.xyz/tonalli-en-el-xoloitzcuintle.html</loc>
-    <priority>0.8</priority>
+    <loc>https://xolosarmy.xyz/blog/10-04-2026-xolosarmy-weekly-update.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/age-of-ai-agents.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/algorithmic-stablecoins-ecash.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/arquitectura-teyolia-guardiania-soberana.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/avalanche-preconsensus.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/balsamo-piel-xoloitzcuintle.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/bitcoin-is-cash.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/bitcoin-script.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/canto-evangelio-rmz.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/color-symbolism-in-crypto.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/crowdfunding-on-ecash.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/crypto-adoption.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/culture-as-consensus-in-electronic-cash.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/dash-vs-ecash-governance.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/debt-fiat-vs-bitcoin-message.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/decentralization-bitcoin-opinion.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/dermatitis-en-xoloitzcuintle.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/dia-de-muertos.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/ecash-avalanche-advantage.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/ecash-communication-upgrade.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/ecash-conference.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/ecash-explained-rbtc.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/ecash-fork-free.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/ecash-governance.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/ecash-ifp.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/ecash-is-bitcoin-cash.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/ecash-is-the-new-bitcoin.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/ecash-onchain-governance.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/electronic-cash.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/entrada-1.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/entrada-2.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/entrada-3.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/entrada-4.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/entrada-5.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/entrada-6.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/era-del-codigo.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/genius-act-vs-ecash.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/hard-forks-on-ecash.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/informe-exhaustivo-xolos-ramirez.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/manage-your-private-keys.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/mictlan-xoloitzcuintle.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/minimum-viable-state-xolosarmy.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/mining-bitcoin.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/nahuatl-y-xoloitzcuintle-codice-vivo-xoloitzcuintle.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/nft-inmutabilty.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/nft-linaje-xolos-ramirez.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/nft-xoloitzcuintli-lineage.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/nfts-linaje-xoloitzcuintle-blockchain-xolosarmy.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/npm-bug.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/open-source-ethos.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/oraculo-xolo.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/p2p-cash-bitcoin.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/paga-con-bitcoin.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/pay-with-rmz.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/pow-surface-attacks.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/registro-xoloitzcuintle-blockchain.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/rmz-as-key-to-xolosarmy-network-ecosystem.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/rmz-gospel.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/rmz-state.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/rmz-vision.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/rmzwallet-tonalli.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/rmzwallet.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/run-your-bitcoin-node.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/sharding-on-ethereum.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/soberania-digital-xolosarmy-network.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/stablecoins-and-ecash.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/subnets-in-ecash.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/subnets-on-ecash.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/telegram-wallet-mexico.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/teyolia-flipstarter-ecash.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/teyolia-flipstarter-manifiesto.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/teyolia-flipstarter-tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/teyolia-flipstarter-v2.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/teyolia-permissionless-funding-on-ecash.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/teyolia-superior-design.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/the-great-reset-bitcoin.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/tokenization-of-money.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/tonalli-en-el-xoloitzcuintle.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/tonalli-thorchain-integration.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/tonalli-tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/tonalli-wallet-connector.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/tonalli-wallet-derivation-path.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/tonalli-wallet-sovereignty.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/tonalli-wallet-thorchain-ecash-integration.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/tonalli-wallet.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/tonalli-walletconnect.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/tonalli-xolo-nfts.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/wallet-connect-xolosarmy.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/xec-thorchain-building-in-public.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xolo-therapeutic.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xoloitzcuintle-en-el-mexico-postrevolucionario.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xoloitzcuintle-y-temazcal.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xoloitzcuintles-de-moctezuma.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xoloitzcuintli-blockchain-registry.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xoloitzcuintli-breath-of-life.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xoloitzcuintli-conservation-efforts.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xoloitzcuintli-day-of-the-death.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/xoloitzcuintli-public-record-blockchain.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xoloitzcuintli-rmz-gospel.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xoloitzcuintli-size-guide.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xoloitzcuintli-standard.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xoloitzcuintli-symbolism-day-of-death.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xoloitzcuintli-token.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xolos-rmz-alp.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/xolosarmy-ai-agents.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/xolosarmy-backs-thorchain.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xolosarmy-data-center.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xolosarmy-ecash.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/xolosarmy-mint-pass.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/xolosarmy-network-grokipedia.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/xolosarmy-nft-ecosystem.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xolosarmy-xolo-arquetipo.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xolosarmy-xoloitzcuintli-mexica-worldview.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/blog/xolosarmy-xoloitzcuintli-registry.html</loc>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xolosramirez-etoken.html</loc>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xolosarmy.xyz/blog/xolotl.html</loc>
-    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/business-network/</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/civilizacion-tonalli/</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/ecosystem/</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/guardiania/</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/human-layer/</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/infrastructure/</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/legal/</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/network-constitution/</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/productos-xoloitzcuintle/</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/rmz-gospel.html</loc>
+  </url>
+  <url>
+    <loc>https://xolosarmy.xyz/tonalli.html</loc>
   </url>
 </urlset>

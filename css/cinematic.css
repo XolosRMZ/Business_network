@@ -175,8 +175,8 @@
 
 /* --- ANIMACIONES DE SCROLL (REVEAL) --- */
 .reveal {
-  opacity: 0;
-  visibility: hidden;
+  opacity: 1;
+  visibility: visible;
   transition: opacity 1s cubic-bezier(0.5, 0, 0, 1), transform 1s cubic-bezier(0.5, 0, 0, 1);
 }
 
@@ -352,4 +352,9 @@ html[data-metrics-status="fallback"] .status-badge {
   0% { opacity: 0.6; }
   50% { opacity: 0.3; }
   100% { opacity: 0.6; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal, .slide-up, .left-reveal, .right-reveal { transform: none; transition: none; }
+  .glowing-orb { animation: none; }
 }
